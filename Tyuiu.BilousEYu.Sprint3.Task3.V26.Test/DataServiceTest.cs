@@ -9,11 +9,11 @@ namespace Tyuiu.BilousEYu.Sprint3.Task3.V26.Test
         {
             DataService ds = new DataService();
             
-            string text = "have a nice time";
+            string value = "have a nice time";
             char item = 'e';
-            int count = ds.GetCharCount(text, item);
+            int res = ds.GetCharCount(value, item);
 
-            Assert.AreEqual(3, count);
+            Assert.AreEqual(3, res);
         }
     }
 }

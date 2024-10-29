@@ -20,15 +20,16 @@ namespace Tyuiu.BilousEYu.Sprint3.Task3.V26
             Console.WriteLine("***************************************************************************");
 
             string value = "have a nice time";
-            char item = 'e';
+            char chr = 'e';
 
-            Console.WriteLine("Cтрока = " + value);
-            Console.WriteLine("Искомый символ = " + item);
+            Console.WriteLine("Исходная строка = " + value);
+            Console.WriteLine("Искомый символ = " + chr);
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine(ds.GetCharCount(value, item));
+            Console.WriteLine(ds.GetCharCount(value, chr));
+           
             Console.ReadKey();
         }
     }

@@ -6,9 +6,9 @@ namespace Tyuiu.BilousEYu.Sprint3.Task3.V26.Lib
         public int GetCharCount(string value, char item)
         {
             int count = 0;
-            foreach (char character in value)
+            foreach (char chr in value)
             {
-                if (character == item)
+                if (chr == item)
                 {
                     count++;
                 }
