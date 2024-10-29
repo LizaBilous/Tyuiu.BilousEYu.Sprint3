@@ -10,7 +10,7 @@ namespace Tyuiu.BilousEYu.Sprint3.Task6.V11
             Console.Title = "Спринт #3 | Выполнила: Билоус Е.Ю. | ИСТНб-24-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
-            Console.WriteLine("* Тема: Организация ввода\\вывода в консольных приложениях                *");
+            Console.WriteLine("* Тема: Обработка целочисленной информации                                *");
             Console.WriteLine("* Задание #6                                                              *");
             Console.WriteLine("* Вариант #11                                                             *");
             Console.WriteLine("* Выполнила: Билоус Елизавета Юрьевна | ИСТНб-24-1                        *");
