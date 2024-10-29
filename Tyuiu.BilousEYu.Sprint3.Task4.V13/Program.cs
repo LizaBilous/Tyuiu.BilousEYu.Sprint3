@@ -14,7 +14,7 @@ namespace Tyuiu.BilousEYu.Sprint3.Task4.V13
             Console.WriteLine("* Тема: Оператор цикла for                                                *");
             Console.WriteLine("* Задание #4                                                              *");
             Console.WriteLine("* Вариант #13                                                             *");
-            Console.WriteLine("* Выполнил: Билоус Елизавета Юрьевна | ИСТНб-24-1                         *");
+            Console.WriteLine("* Выполнила: Билоус Елизавета Юрьевна | ИСТНб-24-1                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* На отрезке, где x принимает значения от -5 до 5, вычислить значение     *");
